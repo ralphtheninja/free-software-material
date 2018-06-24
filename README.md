@@ -31,3 +31,7 @@
 > Business _always_ look at numbers. They want to know how profitable a businesss model can be.
 
 ##### [`Paul Ramsey's Blog`](http://blog.cleverelephant.ca/)
+
+## License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All content submitted to this project is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
